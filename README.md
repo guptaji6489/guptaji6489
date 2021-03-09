@@ -5,30 +5,3 @@ Hi there, I'm Harshit Gupta 👋
 ⚡ Fun fact: I love coffee and youtube
 Connect with me:
  LinkedIncodeSTACKr 
-
-
-Languages and Tools:
-Visual Studio Code
-
-HTML5
-
-CSS3
-
-Sass
-
-JavaScript
-
-React
-
-Gatsby
-
-Node.js
-
-MongoDB
-
-Git
-
-GitHub
-
-Terminal
-
